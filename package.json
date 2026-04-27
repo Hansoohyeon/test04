@@ -1,0 +1,12 @@
+{
+  "name": "railway-test-api",
+  "version": "1.0.0",
+  "description": "Railway deployment test",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
